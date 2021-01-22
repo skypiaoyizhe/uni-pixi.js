@@ -1,19 +1,3 @@
-# uni-pixijs
+# PIXI.JS在uni的微信小程序使用
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 使用了大神移植的微信小程序版pixi.js，将他加入到uni中，仅能使用于微信小程序
